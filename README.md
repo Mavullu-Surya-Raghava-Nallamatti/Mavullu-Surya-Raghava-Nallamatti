@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mavullu-Surya-Raghava-Nallamatti
-- 👀 I’m interested in web developement
+- 👀 I’m interested in data Engineering and web developement
 - 🌱 I’m currently learning React Native  
 - 💞️ I’m looking to collaborate on open react projects
 - 📫 you can reach me at surya.nallamatti@gmail.com
