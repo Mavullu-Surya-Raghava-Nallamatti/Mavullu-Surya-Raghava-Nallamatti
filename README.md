@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mavullu-Surya-Raghava-Nallamatti
-- 👀 I’m interested in data Engineering and web developement
-- 🌱 I’m currently learning React Native  
-- 💞️ I’m looking to collaborate on open react projects
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning Airflow
+- 💞️ I’m looking to collaborate on open data modelling projects
 - 📫 you can reach me at surya.nallamatti@gmail.com
 
 <!---
